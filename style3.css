@@ -1,0 +1,52 @@
+*{
+    padding: 0;
+    margin: 100px;
+}
+
+body{
+    background-image: url("123.jpg");
+    margin: 200px 200px 200px 200px;
+}
+
+fieldset{
+    border:solid 5px white;
+
+    margin:30px
+}
+
+.odd{
+
+    animation-name: odd;
+    animation-duration: 2s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+
+}
+
+@keyframes odd {
+
+    0%
+    {
+        transform: translateX(-50%);
+    }
+    
+}
+
+
+.even{
+
+    animation-name: even;
+    animation-duration: 2s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+
+}
+
+@keyframes even {
+
+    0%
+    {
+        transform: translateX(50%);
+    }
+    
+}

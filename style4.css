@@ -1,0 +1,26 @@
+p{
+
+    background-image: url("123.jpg");
+    background-size: 200px 200px;
+    background-repeat: no-repeat;
+    color: antiquewhite;
+    font-size: 20px;
+    
+    animation-name: p;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: 1;
+    animation-delay: 0s;
+    margin-left: 300px;
+    
+    
+
+}
+
+@keyframes p {
+
+    0%{
+        transform: translatex(-50%);
+    }
+    
+}

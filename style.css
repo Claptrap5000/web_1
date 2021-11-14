@@ -1,0 +1,237 @@
+*{
+    font-family: sans-serif,serif;
+    padding:0px;
+    margin:0px;
+}
+
+#body_1{
+
+    background-color: #696969;
+    padding-bottom: 30px;
+}
+
+
+#hed{
+
+    background-color: #333;
+    padding-top: 40px;
+    padding-bottom: 70px;
+    display:flex;
+}
+
+h1{
+
+    font-size: 50px;
+    padding-top:-30px ;
+    text-align: centre;
+    font-family: sans-serif,serif;
+    color:whitesmoke;
+    padding-left: 450px;
+}
+
+.icon{
+
+    color:whitesmoke;
+    font-size: 20px;
+    padding-left: 30px;
+    text-decoration: none;
+}
+
+.icon:hover{
+ 
+    color:violet;
+
+}
+
+a{
+    color: inherit;
+}
+
+
+#row{
+    padding-top: 30px;
+    padding-left: 500px;
+    display:flex;
+}
+
+#fan{
+
+    background-image: url("fanta_2.jpg");
+    font-size:30px;
+    margin-top: 100px;
+    padding-top:100px;
+    padding-bottom: 100px;
+    padding-right: 180px;
+    background-size: cover;
+    
+    background-repeat:no-repeat;
+    color: whitesmoke;
+    border:solid 10px whitesmoke;
+    margin-left: 20%;
+    margin-right: 20px;
+    transition:0.6s;
+    border-radius: 2%;
+}
+
+#thi{
+
+    font-size:30px;
+    background-image: url("thriller_2.jpg");
+    margin-top: 100px;
+    padding-top:100px;
+    padding-bottom: 100px;
+    padding-left: 200px;
+    padding-right: 60px;
+    background-size: cover;
+    background-repeat:no-repeat;
+    color: whitesmoke;
+    border:solid 10px #333;
+    margin-right: 25%;
+    transition:0.6s;
+    border-radius: 2%;
+}
+
+#im{
+
+    display: flex;
+    margin-bottom: 20px;
+}
+
+#im2{
+
+    display: flex;
+    margin-bottom: 20px;
+}
+
+#rom{
+
+    background-image: url("rom_1.jpg");
+    font-size:30px;
+    margin-top: 10px;
+    padding-top:100px;
+    padding-bottom: 150px;
+    padding-right: 250px;
+    background-size: cover;
+
+    
+    background-repeat:no-repeat;
+    color: whitesmoke;
+    border:solid 10px  #333;
+    margin-left: 20%;
+    margin-right: 20px;
+    transition:0.6s;
+    border-radius: 2%;
+
+
+}
+
+#myth{
+    font-size:30px;
+    background-image: url("myth_2.jpg");
+    margin-top: 10px;
+    padding-top:100px;
+    
+    padding-left: 200px;
+  
+    background-size: cover;
+    background-repeat:no-repeat;
+    color: whitesmoke;
+    border:solid 10px  whitesmoke;
+    
+    margin-right: 25%;
+    transition:0.6s;
+    border-radius: 2%;
+
+
+}
+
+
+
+#auto_m{
+
+    background-image: url("auto.jpg");
+    font-size:30px;
+    margin-top: 100px;
+    padding-top:100px;
+    padding-bottom: 100px;
+    padding-right: 220px;
+    background-size: cover;
+    
+    background-repeat:no-repeat;
+    color: whitesmoke;
+    border:solid 10px whitesmoke;
+    margin-left: 20%;
+    margin-right: 20px;
+    transition:0.6s;
+    border-radius: 2%;
+}
+
+#fit{
+
+    font-size:30px;
+    background-image: url("fitn.jpg");
+    margin-top: 100px;
+    padding-top:100px;
+    padding-bottom: 100px;
+    padding-left: 200px;
+    background-size: cover;
+    background-repeat:no-repeat;
+    color: rgb(100, 98, 98);
+    border:solid 10px rgb(68, 67, 67);
+    margin-right: 25%;
+    transition:0.6s;
+    border-radius: 2%;
+}
+
+#tech{
+
+    background-image: url("tech.jpg");
+    font-size:30px;
+    margin-top: 10px;
+    padding-top:100px;
+    padding-bottom: 100px;
+    padding-right: 300px;
+    background-size: cover;
+    
+    background-repeat:no-repeat;
+    color:  rgb(100, 98, 98);
+    border:solid 10px rgb(68, 67, 67);
+    margin-left: 20%;
+    margin-right: 20px;
+    transition:0.6s;
+    border-radius: 2%;
+
+}
+
+#tra{
+    font-size:30px;
+    background-image: url("trav.jpg");
+    margin-top: 10px;
+    padding-top:100px;
+    padding-bottom: 100px;
+    padding-left: 200px;
+    background-size: cover;
+    background-repeat:no-repeat;
+    color: whitesmoke;
+    border:solid 10px  whitesmoke;
+    margin-right: 25%;
+    transition:0.6s;
+    position: relative;
+    border-radius: 2%;
+}
+
+#body_2{
+    background-color: #333;
+    padding-bottom: 30px;
+}
+
+.zoom:hover{
+    transform: scale(1.1);
+}
+
+h2{
+    padding-top: 50px;
+    text-align: center;
+    color: whitesmoke;
+    font-size: 30px;
+}
